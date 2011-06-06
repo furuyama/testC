@@ -1,0 +1,3 @@
+[submodule "testC"]
+	path = testC
+	url = git://github.com/furuyama/testC.git
